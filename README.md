@@ -1,6 +1,6 @@
-Hi 👋 My name is Nefi Melgar
+Hi 👋 My name is Nefi Melgar<br>
 ###Web Developer###<br>
-I've been learning to code since 2020, I started with frontend technologies, but now I'm moving to learn backend and improve frontend.* <br>
+I've been learning to code since 2020, I started with frontend technologies, but now I'm moving to learn backend and improve frontend.<br>
 🌍  I'm based in Gomez Palacio, Durango, Mexico  <br>
 🖥️  See my portfolio at [my portfolio](http://https://nmelgar.github.io/portfolio/) <br>
 🧠  I'm learning Javascript, Django, Programming with functions, Algorithm Design<br> 
