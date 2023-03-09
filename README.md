@@ -13,6 +13,7 @@ I've been learning to code since 2020, I started with frontend technologies, but
     <li>CSS</li>
     <li>Javascript</li>
     <li>Python</li>
+    <li>Django</li>
     <li>Git</li>
     <li>Adobe Photoshop</li>
     <li>Adobe Illustrator</li>
