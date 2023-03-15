@@ -3,7 +3,7 @@ Hi 👋 My name is Nefi Melgar<br>
 I've been learning to code since 2020, I started with frontend technologies, but now I'm working on both, backend and frontend.<br>
 🌍  I'm based at Gomez Palacio, Durango, Mexico.<br>
 🖥️  More about me [here](https://nmelgar.github.io/portfolio/).<br>
-🧠  I'm learning Data Analysis, Django, Programming with Classes, Algorithm Design.<br> 
+🧠  I'm learning Data Analysis, Django, TDD, APIs.<br> 
 🤝  I'm open to collaborating on Web development projects.<br>
 ⚡  I love to play piano
 
